@@ -2921,7 +2921,7 @@ div.custom-select:last-child {
 .about-us p, .blog-container p, .blog-post p {
 	font-size: 16px;
 	color: #2d2d2d;
-	line-height: 28px;
+	line-height: 30px;
 }
 
 .about-us .about-us-paragraphs {
@@ -4904,7 +4904,7 @@ table.technical tbody tr td {
 .porche-footer {
 	background-color: #FFFFDF;
 	text-align: center;
-	background-image: url(../images/header_shadow%20-%20Copia.png);
+	background-image: url(../images/header_shadow_2022.png);
 }
 
 /*  iii. Boxed View  */
