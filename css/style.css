@@ -2918,8 +2918,11 @@ div.custom-select:last-child {
 	margin: 0;
 }
 
+/*  
+----- TAMANHO DA FONTE -----------------------*/
+
 .about-us p, .blog-container p, .blog-post p {
-	font-size: 16px;
+	font-size: 18px;
 	color: #2d2d2d;
 	line-height: 30px;
 }
